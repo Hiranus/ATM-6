@@ -3,8 +3,8 @@
 	#Number of hearts you gain for reaching a new milestone.
 	#Range: 0 ~ 1000
 	heartsPerMilestone = 1
-	#A list of numbers of unique foods you need to eat to unlock each milestone, in ascending order.
-	milestones = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]
+	#A list of numbers of unique foods you need to eat to unlock each milestone, in ascending order. Naturally, adding more milestones lets you earn more hearts.
+	milestones = [20, 40, 60, 80, 100, 120, 140, 160, 180, 200, 220, 240, 260, 280, 300, 320, 340, 360, 380, 400, 420, 440, 460, 480, 500, 520, 540, 560, 580, 600, 620, 640, 660, 680, 700, 720, 740, 760, 780, 800, 820, 840, 860, 880, 900, 920, 940, 960, 980, 1000]
 	#Number of hearts you start out with.
 	#Range: 0 ~ 1000
 	baseHearts = 10

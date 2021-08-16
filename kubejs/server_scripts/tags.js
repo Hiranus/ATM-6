@@ -165,8 +165,8 @@ onEvent('block.tags', e => {
 
 //Entity tags
 onEvent('entity_type.tags', e => {
-  e.add('industrialforegoing:mob_imprisonment_tool_blacklist', [/resourcefulbees:.+_bee/, /iceandfire:.+_dragon/, 'iceandfire:dragon_multipart', 'iceandfire:dragon_egg',])
-  e.add('mob_grinding_utils:noswab', [/resourcefulbees:.+_bee/, /iceandfire:.+_dragon/, 'iceandfire:dragon_multipart', 'iceandfire:dragon_egg',])
+  e.add('industrialforegoing:mob_imprisonment_tool_blacklist', ['iceandfire:dragon_egg',])
+  e.add('mob_grinding_utils:noswab', ['iceandfire:dragon_egg',])
 })
 
 //Fluid tags

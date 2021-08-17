@@ -98,5 +98,5 @@ centrifugeTierCreativeSize = true
 #
 #Centrifuge Multiplier Combs Blacklist 
 #For example 'minecraft:honeycomb_block' or 'resourcefulbees:catnip_honeycomb_block'
-centrifugeMultiplierCombsBlacklist = ["resourcefulbees:starry_honeycomb", "resourcefulbees:starry_honeycomb_block"]
+centrifugeMultiplierCombsBlacklist = [""]
 

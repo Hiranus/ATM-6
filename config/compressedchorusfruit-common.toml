@@ -1,0 +1,17 @@
+#
+#Compressed Chorus Fruit Max X Range
+#Range: > 1
+compressedChorusFruitMaxXRange = 3000000
+#
+#Compressed Chorus Fruit Max Y Range
+#Range: > 1
+compressedChorusFruitMaxYRange = 100
+#
+#Compressed Chorus Fruit Max Z Range
+#Range: > 1
+compressedChorusFruitMaxZRange = 3000000
+#
+#Compressed Chorus Fruit Max Cooldown
+#Range: > 1
+compressedChorusFruitCooldown = 36000
+

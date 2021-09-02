@@ -21,7 +21,6 @@ onEvent(`jei.hide.items`, e => {
   //#endregion
 
   e.hide([
-    '@chipped',
     /chiselsandbits:block_bit/,
     /chiseled.*/,
     /supplementaries:bamboo_spikes_tipped/,

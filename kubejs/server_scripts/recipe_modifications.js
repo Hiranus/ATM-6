@@ -389,7 +389,8 @@ onEvent('recipes', e => {
     P: 'botanypots:botany_pot',
     H: ['botania:hopperhock', 'botania:hopperhock_chibi']
   })
-
+  e.replaceInput(`zycraft:aluminium`, `#forge:ingots/aluminum`)
+  
   //Dye stuff
   const colors = [
     'white',
